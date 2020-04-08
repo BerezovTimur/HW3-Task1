@@ -18,11 +18,11 @@
 
 ### Результаты проверки.
 
-При TicketPrice=0 полученный результат TotalBonus1=0.
-При TicketPrice=20 полученный результат TotalBonus1=1.
-При TicketPrice=39.90 полученный результат TotalBonus1=1.
-При TicketPrice=1000 полученный результат TotalBonus1=50.
-При TicketPrice=-20 полученный результат TotalBonus1=-1.
+- При TicketPrice=0 полученный результат TotalBonus1=0.
+- При TicketPrice=20 полученный результат TotalBonus1=1.
+- При TicketPrice=39.90 полученный результат TotalBonus1=1.
+- При TicketPrice=1000 полученный результат TotalBonus1=50.
+- При TicketPrice=-20 полученный результат TotalBonus1=-1.
 
 Приложение проверку прошло
 
